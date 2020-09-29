@@ -3,7 +3,7 @@
 
         <div class="section-title">
           <h2>Inscribite a nuestro <span>Workshop</span></h2>
-          <p>Confirmaremos tu inscripción con el link de pago correspondiente.</p>
+          <p>Agradecemos tus ganas y entusiasmo por participar con nosotros. Completá el siguiente formulario.</p>
         </div>
 
         <form action="forms/book-a-table.php" method="post" role="form" class="php-email-form">
@@ -20,20 +20,8 @@
               <input type="text" class="form-control" name="phone" id="phone" placeholder="Número de Teléfono..." data-rule="minlen:8" data-msg="Por favor, coloque un número válido.">
               <div class="validate"></div>
             </div>
-
-            <div class="col-lg-12 col-md-6 form-group">
-              <p>Método de Pago:</p>
-              <div class="custom-control custom-checkbox">
-                <input type="checkbox" id="customCheckBox1" name="mercadopago" value="1" class="custom-control-input">
-                <label class="custom-control-label" for="customCheckBox1">MercadoPago</label>
-              </div>
-              <div class="custom-control custom-checkbox">
-                <input type="checkbox" id="customCheckBox2" name="paypal" value="2" class="custom-control-input">
-                <label class="custom-control-label" for="customCheckBox2">PayPal</label>
-              </div>
-            </div>
         </div>
-            <script>
+            <!--<script>
               let Checked = null;
               //The class name can vary
               for (let CheckBox of document.getElementsByClassName('custom-control-input')){
@@ -45,12 +33,11 @@
                   Checked = CheckBox;
                 }
               }
-            </script>
-
+            </script>-->
           <div class="mb-3">
             <div class="loading">Enviando...</div>
             <div class="error-message"></div>
-            <div class="sent-message">Su solicitud ha sido enviada. Una vez recibida, le enviaremos el link de pago para completar la inscripción.</div>
+            <div class="sent-message">Tu solicitud ha sido enviada. Una vez recibida, te confirmaremos la recepción y solicitaremos el pago.</div>
           </div>
           <div class="text-center"><button type="submit">Enviar</button></div>
         </form>

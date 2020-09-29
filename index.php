@@ -22,9 +22,6 @@
   <?php  require_once 'require/workshop.php'; ?>
     <!-- End About Section -->
 
-    <!-- ======= Whu Us Section ======= -->
-  <?php # require_once 'require/whyus.php; ?>
-    <!-- End Whu Us Section -->
 
     <!-- ======= Menu Section ======= -->
   <?php # require_once 'require/menu.php; ?>
@@ -42,6 +39,10 @@
   <?php  require_once 'require/book.php' ; ?>
     <!-- End Book A Table Section -->
 
+    <!-- ======= Why Us Section ======= -->
+  <?php  require_once 'require/whyus.php' ; ?>
+    <!-- End Whu Us Section -->
+    
     <!-- ======= Gallery Section ======= -->
   <?php  require_once 'require/gallery.php' ; ?>
     <!-- End Gallery Section -->

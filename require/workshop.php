@@ -10,7 +10,7 @@
           <div class="col-lg-12 d-flex flex-column justify-content-center align-items-stretch">
 
             <div class="content">
-              <h3>Workshop Pulled de <strong>hamburguesas, panes y aderezos.</strong></h3>
+              <h3>Workshop de <strong>pulled, hamburguesas, panes y aderezos.</strong></h3>
               <p>
                 A cargo de <strong>Veggies Patagónicos</strong>, somos profesionales gastronómicos
                 especializados en comida vegetariana, vegana & alimentos vivos. <br>
@@ -41,7 +41,7 @@
                 Al finalizar la clase se hará una devolución del resultado a cada participante. La clase quedará
                 grabada por 10 días para que vuelvas a consultarla de ser necesario. <br>
                 <strong>
-                  Las clases se realizarán a través de la plataforma <span><a href="https://play.google.com/store/apps/details?id=co.shield.ckayt&hl=es_AR" style="text-decoration: none;">Gayatrí</a></span>, donde se harán las recetas
+                  Las clases se realizarán a través de la plataforma <span><a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=es_AR" style="text-decoration: none;">Zoom</a></span>, donde se harán las recetas
                   en vivo y se presentará un espacio para las dudas. 
                 </strong>
               </p>
@@ -51,7 +51,7 @@
               <li><i class="bx bx-check-double"></i><strong>Horario/Duración:</strong> 18hs / 2 horas.</li>
               </ul>
 
-              <a href="https://play.google.com/store/apps/details?id=co.shield.ckayt&hl=es_AR"><strong>Descargar Gayatrí</strong></a>
+              <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=es_AR"><strong>Descargar Zoom</strong></a>
 
             </div>
 
