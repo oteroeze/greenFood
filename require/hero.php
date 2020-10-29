@@ -7,38 +7,38 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(assets/img/slide/hamburguesasVarias.jpg); background-size: cover; background-position: center" >
+          <div class="carousel-item active" style="background: url(assets/img/slide/carousel1.jpg); background-size: cover; background-position: center" >
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown"><span>Veggies</span> Patagónicos</h2>
-                <p class="animate__animated animate__fadeInUp"></p>
+                <h4 class="animate__animated animate__fadeInUp" style="color: white;">¡Bienvenid@, somos Paula y Albert, conocé lo que hacemos!</h4>
                 <div>
-                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Inscribite a nuestro Workshop</a>
+                  <!--<a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Conocenos</a>-->
                 </div>
               </div>
             </div>
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background: url(assets/img/slide/instrumentoCocina.jpg); background-size: cover; background-position: center">
+          <div class="carousel-item" style="background: url(assets/img/slide/carousel2.jpg); background-size: cover; background-position: center">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Somos Profesionales Gastronómicos</h2>
-                <p class="animate__animated animate__fadeInUp">Desde 2009, establecidos en El Calafate, Patagonia Argentina, desarrollamos de manera constante la necesidad de hacerle llegar a distintas personas una alternativa de alimentación diferente y saludable.</p>
+                <p class="animate__animated animate__fadeInUp">Desde 2009, establecidos en El Calafate, Patagonia Argentina, queremos hacerle llegar a distintas personas una alternativa de alimentación consciente y saludable.</p>
                 <div>
-                  <a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Inscribite a nuestro Workshop</a>
+                  <a href="#gallery" class="btn-book animate__animated animate__fadeInUp scrollto">Mirá nuestra galería</a>
                 </div>
               </div>
             </div>
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background: url(assets/img/slide/hamburguesaLenteja.jpg);background-size: cover; background-position: bottom">
+          <div class="carousel-item" style="background: url(assets/img/slide/carousel3.jpg);background-size: cover; background-position: bottom">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Reconocidos por más de 8.000 seguidores.</h2>
                 <p class="animate__animated animate__fadeInUp">
-                  Mantenemos un perfil muy activo dentro de las redes sociales. Actualmente buscamos con nuestro <strong>Workshop</strong> poder hacerle llegar a nuestros seguidores y seguidoras nuestro conocimiento y experiencia en la manufacturación de nuestras delicias Veggies. <br>
+                  Mantenemos un perfil muy activo dentro de las redes sociales.
                   Seguinos en:
                 </p>
                 <div>

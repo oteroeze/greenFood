@@ -261,7 +261,7 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav-toggle {
   position: fixed;
   right: 15px;
-  top: 15px;
+  top: 21px;
   z-index: 9998;
   border: 0;
   background: none;
@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: orange;
 }
 
 .mobile-nav {
@@ -540,7 +540,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 32px 0;
 }
 
 .section-bg {
@@ -570,7 +570,7 @@ section {
 
 @media (min-width: 1024px) {
   .section-title p {
-    width: 50%;
+    width: 80%;
   }
 }
 

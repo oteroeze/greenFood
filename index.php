@@ -5,9 +5,6 @@
 
 <body>
 
-  <!-- ======= Top Bar ======= -->
-  <?php require_once 'require/topbar.php'; ?>
-
   <!-- ======= Header ======= -->
   <?php require_once 'require/header.php'; ?>
   <!-- End Header -->
@@ -18,41 +15,29 @@
 
   <main id="main">
 
-    <!-- ======= About Section ======= -->
-  <?php  require_once 'require/workshop.php'; ?>
-    <!-- End About Section -->
-
-
+    
+    <?php require_once 'require/workshops.php'; ?>
     <!-- ======= Menu Section ======= -->
-  <?php # require_once 'require/menu.php; ?>
+    <?php # require_once 'require/menu.php; ?>
     <!-- End Menu Section -->
 
-    <!-- ======= Specials Section ======= -->
-  <?php # require_once 'require/specials.php'; ?>
-    <!-- End Specials Section -->
-
-    <!-- ======= Events Section ======= -->
-  <?php # require_once 'require/events.php' ; ?>
-    <!-- End Events Section -->
-
+    <!-- Nutricionista -->
+    <?php require_once 'require/chefs.php'; ?>
+    <!-- ############ -->
     <!-- ======= Book A Table Section ======= -->
-  <?php  require_once 'require/book.php' ; ?>
+  <?php # require_once 'require/book.php' ; ?>
     <!-- End Book A Table Section -->
 
     <!-- ======= Why Us Section ======= -->
-  <?php  require_once 'require/whyus.php' ; ?>
+  <?php # require_once 'require/whyus.php' ; ?>
     <!-- End Whu Us Section -->
     
     <!-- ======= Gallery Section ======= -->
-  <?php  require_once 'require/gallery.php' ; ?>
+  <?php  require_once 'require/galleries/gallery.php' ; ?>
     <!-- End Gallery Section -->
 
-    <!-- ======= Chefs Section ======= -->
-  <?php # require_once 'require/chefs.php' ;?>
-    <!-- End Chefs Section -->
-
     <!-- ======= Contact Section ======= -->
-  <?php # require_once 'require/contacto.php'; ?>
+  <?php  require_once 'require/contacto.php'; ?>
     <!-- End Contact Section -->
 
   </main><!-- End #main -->

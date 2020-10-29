@@ -18,6 +18,7 @@
   $book_a_table = new PHP_Email_Form;
   $book_a_table->ajax = true;
   
+  $book_a_table->curso = $_POST['curso'];
   $book_a_table->to = $receiving_email_address;
   $book_a_table->from_name = $_POST['name'];
   $book_a_table->from_email = $_POST['email'];
@@ -32,7 +33,7 @@
     'port' => '587'
   );
   */
-
+  $book_a_table->add_message( $_POST['curso', 'Curso']);
   $book_a_table->add_message( $_POST['name'], 'Name');
   $book_a_table->add_message( $_POST['email'], 'Email');
   $book_a_table->add_message( $_POST['phone'], 'Phone', 8);
