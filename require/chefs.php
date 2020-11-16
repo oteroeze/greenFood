@@ -22,7 +22,7 @@
           </div>
 
           <div class="col-lg-4 col-md-4">
-            <p style="line-height: 2;">En este taller te propongo conocer la naturaleza de los alimentos, los
+            <p style="line-height: 2;">En estos talleres te propongo conocer la naturaleza de los alimentos, los
             beneficios de una verdadera alimentación y diferentes reemplazos a la
             hora de cocinar y disfrutar. Hace unos años elijo el camino de la alimentación
             integral, natural y consciente.

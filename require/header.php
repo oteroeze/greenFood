@@ -8,6 +8,7 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="index.php">Home</a></li>
+          <li><a href="panettone.php">Panettone & Pan Dulce</a></li>
           <li><a href="pulled.php">Hamburguesas & Pulled</a></li>
           <li><a href="pasteleria.php">Pastelería</a></li>
           <li><a href="#gallery">Galería</a></li>

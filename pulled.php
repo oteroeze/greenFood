@@ -23,7 +23,7 @@
   <?php  require_once 'require/inscripciones/inscripciones1.php' ; ?>
     <!-- =================== End =========== -->
     
-  <?php require_once 'require/pagos.php'; ?>
+  <?php # require_once 'require/pagos.php'; ?>
 
   </main><!-- End #main -->
 

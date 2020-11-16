@@ -15,8 +15,10 @@
 
   <main id="main">
 
-    
+    <!-- ======= Workshops ======= -->
     <?php require_once 'require/workshops.php'; ?>
+    <!-- =======           ======= -->
+
     <!-- ======= Menu Section ======= -->
     <?php # require_once 'require/menu.php; ?>
     <!-- End Menu Section -->

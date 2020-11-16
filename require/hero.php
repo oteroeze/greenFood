@@ -10,10 +10,10 @@
           <div class="carousel-item active" style="background: url(assets/img/slide/carousel1.jpg); background-size: cover; background-position: center" >
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown"><span>Veggies</span> Patagónicos</h2>
+                <h2 class="animate__animated animate__fadeInDown" style="margin-top: 300px;"><span>Veggies</span> Patagónicos</h2>
                 <h4 class="animate__animated animate__fadeInUp" style="color: white;">¡Bienvenid@, somos Paula y Albert, conocé lo que hacemos!</h4>
                 <div>
-                  <!--<a href="#book-a-table" class="btn-book animate__animated animate__fadeInUp scrollto">Conocenos</a>-->
+                  <a href="panettone.php" class="btn-book animate__animated animate__fadeInUp scrollto mt-2">Inscribite al próximo Taller</a>
                 </div>
               </div>
             </div>

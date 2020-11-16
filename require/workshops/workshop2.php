@@ -44,12 +44,6 @@
                 <li><i class="bx bx-check-double"></i><strong>Smoothie</strong> - de Banana, semillas de chía y frutos rojos. Sin azúcar.</li>
               </ul>
               <p>
-                Este taller, de 2hs de duración, te ofrecerá una nueva perspectiva en el desarrollo y armado de
-                4 diferentes versiones de hamburguesas veganas, sin gluten y naturales. También se elaborarán
-                aderezos clásicos y un pan de hamburguesa sin gluten. Enseñaremos y aplicaremos técnicas profesionales
-                y se mostrarán las herramientas necesarias para llevarlas a cabo. <br>
-                Al finalizar la clase se hará una devolución del resultado a cada participante. La clase quedará
-                grabada por 10 días para que vuelvas a consultarla de ser necesario. <br>
                 <strong>
                   Las clases se realizarán a través de la plataforma <span><a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=es_AR" style="text-decoration: none;">Zoom</a></span>, donde se harán las recetas
                   en vivo y se presentará un espacio para las dudas. 
